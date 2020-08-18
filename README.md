@@ -33,10 +33,13 @@ Por lo tanto, para una distribución de energía a una casa, pueblo o ciudad se 
 Una tensión senoidal, está expresada de la siguiente forma:
 ![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Tension_Senoidal.png)
 
-Además, la repetición de una senoide en un intervalo de tiempo, se la conoce como Período, con unidades en segundos [s].
+Además, la repetición de una senoide en un intervalo de tiempo, se la conoce como Período, con unidades en segundos [s]. En otras palabras, el periodo es el tiempo que tarda la función en dar un ciclo completo.
 
 ![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Periodo.png)![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Graf.Periodo.png)
 
+Por otra parte, la frecuencia cíclica es el recíproco del periodo, donde sus unidades están expresadas en Hertz [Hz].
+
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/frecuenciaciclic.png)
 
 4.- DIAGRAMAS:
 
