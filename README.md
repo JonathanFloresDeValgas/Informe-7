@@ -33,6 +33,9 @@ Por lo tanto, para una distribución de energía a una casa, pueblo o ciudad se 
 Una tensión senoidal, está expresada de la siguiente forma:
 ![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Tension_Senoidal.png)
 
+Además, la repetición de una senoide en un intervalo de tiempo, se la conoce como Período, con unidades en segundos [s].
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Periodo.png)  ![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Graf.Periodo.png)
+
 
 4.- DIAGRAMAS:
 
