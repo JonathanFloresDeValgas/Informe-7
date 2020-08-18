@@ -25,6 +25,12 @@ Fecha: 2020 - 08 - 19
 
 3.- MARCO TEORICO:
 
+Una senoide adquiere este nombre, puesto que su trayectoria es la de una señal en forma de las funciones seno o coseno.
+Este tipo de corriente es conocida por ser tipo ¨corriente alterna¨, lo que que significa que habrán alteraciones de signo en cada uno de sus intervalos.
+Cabe mencionar, que el beneficio más grande de una senoide, recae sobre su distribución y aplicación, dado que son sencillas de generar y transmitir.
+Por lo tanto, para una distribución de energía a una casa, pueblo o ciudad se aplica un sistema de corriente alterna.
+ 
+Una tensión senoidal, está expresada de la siguiente forma:
 
 
 4.- DIAGRAMAS:
