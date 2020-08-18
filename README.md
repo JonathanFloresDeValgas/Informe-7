@@ -41,6 +41,12 @@ Por otra parte, la frecuencia cíclica es el recíproco del periodo, donde sus u
 
 ![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/frecuenciaciclic.png)
 
+Es importante tener en cuenta, que una función senoidal puede estar desfasada o en fase.
+Decimos que está en fase, cuando la senoide corta por el origen de un plano, esto quiere decir, que la señal senoidal no está adelantada ni atrasada en función del tiempo.
+Por el contrario, se dice que está en desface, cuando la función no corta por el origen de un plano, lo que quiere decir que la función está adelantada.
+
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/faseydesface.png)
+
 4.- DIAGRAMAS:
 
 
