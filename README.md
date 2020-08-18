@@ -31,6 +31,7 @@ Cabe mencionar, que el beneficio más grande de una senoide, recae sobre su dist
 Por lo tanto, para una distribución de energía a una casa, pueblo o ciudad se aplica un sistema de corriente alterna.
  
 Una tensión senoidal, está expresada de la siguiente forma:
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Tension_Senoidal.png)
 
 
 4.- DIAGRAMAS:
