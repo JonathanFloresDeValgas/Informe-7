@@ -10,7 +10,7 @@ Fecha: 2020 - 08 - 19
 
 1.- PLANTEAMIENTO DEL PROBLEMA:
 
-
+¿Hay alguna diferencia entre una función en fase con otra desfasada?¿Esta diferencia, es significativa en el análisis de un circuito con corriente alterna?¿Existe alguna importancia en la implementación de un sistema en corriente alterna?
 
 2.- OBJETIVOS:
 
@@ -21,8 +21,8 @@ Determinar exprimentalmente las características de señales senoidales.
 
 * Específico:
 
-- Identificar cada  uno de los elementos de la senoide.
-- Simular el comportamiento senoidal de un circuito.
+1.- Identificar cada  uno de los elementos de la senoide.
+2.- Simular el comportamiento senoidal de un circuito.
 
 
 3.- MARCO TEORICO:
