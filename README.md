@@ -16,11 +16,13 @@ Fecha: 2020 - 08 - 19
 
 * General: 
 
+Determinar exprimentalmente las características de señales senoidales.
 
 
 * Específico:
 
-
+- Identificar cada  uno de los elementos de la senoide.
+- Simular el comportamiento senoidal de un circuito.
 
 
 3.- MARCO TEORICO:
@@ -57,6 +59,7 @@ En esta gráfica, la tensión v2 se adelanta a la tensión v1 con un ángulo de 
 
 5.- LISTA DE COMPONENTES:
 
+![](https://github.com/BraddJCJ/Informe-7/blob/master/Img/Materiales.png)
 
  
 6.- CONCLUSIONES:
