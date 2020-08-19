@@ -22,7 +22,9 @@ Determinar exprimentalmente las características de señales senoidales.
 * Específico:
 
 1.- Identificar cada  uno de los elementos de la senoide.
+
 2.- Simular el comportamiento senoidal de un circuito.
+
 3.- Resolver la importancia en la implementación de un circuito CA en vez de uno CD. 
 
 
@@ -65,13 +67,17 @@ En esta gráfica, la tensión v2 se adelanta a la tensión v1 con un ángulo de 
  
 6.- CONCLUSIONES:
 
--Es mejor diseñar un sistema de corriente alterna en vez de uno de corriente continua, puesto que facilita el análisis matemático detallado, además de la manipulación para un circuito dsitribuido a un área más extenza para su uso. 
+-Es mejor diseñar un sistema de corriente alterna en vez de uno de corriente continua, puesto que facilita el análisis matemático detallado, además de la manipulación para un circuito dsitribuido a un área más extenza para su uso.
+
 -El comportamiento de una senoide en fase o desface, permite concluir el flujo de corriente en función del tiempo, el cual, puede ser muy útil al momento de implementar un circuito eléctrico.
+
 -Cada senoide consta de mínimo un argumento y una amplitud, puesto que esto permite identificar la frecuencia, el período y los picos máximos de amplitud de corriente o tensión.
 
 7.- RECOMENDACIONES:
 
+-Se recomienda tener en cuenta la posición de la senoide con respecto al tiempo para evitar errores al momento de determinar si la función está en fase o desface.
 
+-Es necesario identificar las unidades para un correcto análisis, puesto que una alteración en las magnitudes puede perjudicar el significado gráfico de la senoide.
 
 8.- CRONOGRAMA:
 
